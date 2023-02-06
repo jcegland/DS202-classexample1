@@ -30,3 +30,6 @@ sumSquares = function (x,y){
 sumSquares(3,2)
 sumSquares(c(2,3), c(4,5))
 
+
+
+
